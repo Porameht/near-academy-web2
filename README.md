@@ -3,6 +3,11 @@ social-memes
 
 This app was initialized with [create-near-app]
 
+<img width="1151" alt="Screen Shot 2565-05-15 at 11 21 35" src="https://user-images.githubusercontent.com/89307294/168457145-bbbda5e3-1a42-4845-85e3-8f7231e5c0e3.png">
+
+<img width="1107" alt="Screen Shot 2565-05-15 at 11 08 46" src="https://user-images.githubusercontent.com/89307294/168457123-f8bee626-be96-4547-bf76-0bec735d6054.png">
+
+
 Quick Start
 ===========
 
